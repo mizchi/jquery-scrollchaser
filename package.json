@@ -1,6 +1,6 @@
 {
   "author": "Yuku Takahashi <taka84u9@gmail.com>",
-  "name": "jquery-scrollchaser",
+  "name": "@mizchi/jquery-scrollchaser",
   "version": "0.0.6",
   "devDependencies": {
     "grunt": "~0.4.1",
